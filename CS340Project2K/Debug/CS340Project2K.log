@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\secpc\source\repos\cs340project2k\cs340project2k\source.cpp(311): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  CS340Project2K.vcxproj -> C:\Users\secpc\source\repos\CS340Project2K\Debug\CS340Project2K.exe
+  CS340Project2K.vcxproj -> C:\Users\secpc\source\repos\CS340Project2K\Debug\CS340Project2K.pdb (Partial PDB)

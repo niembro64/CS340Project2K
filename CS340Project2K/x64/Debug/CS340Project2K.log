@@ -1,0 +1,8 @@
+﻿  Source.cpp
+H:\Drive\Cetera\BACKUPS\From_NiemoSamsung\P2SubmissionEricNiemeyer2\CS340Project2K\CS340Project2K\Source.cpp(25,19): warning C4244: 'initializing': conversion from '_Rep' to 'long double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+H:\Drive\Cetera\BACKUPS\From_NiemoSamsung\P2SubmissionEricNiemeyer2\CS340Project2K\CS340Project2K\Source.cpp(574,55): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  CS340Project2K.vcxproj -> H:\Drive\Cetera\BACKUPS\From_NiemoSamsung\P2SubmissionEricNiemeyer2\CS340Project2K\x64\Debug\CS340Project2K.exe
